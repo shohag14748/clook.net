@@ -230,7 +230,7 @@ h3 i {
     z-index: 999999;
 }
 
-.bottom-cta span {
+.bottom-cta a {
     background: #208fa0;
     width: 55px;
     height: 55px;
@@ -248,7 +248,7 @@ h3 i {
     transition: .5s;
 }
 
-.bottom-cta span:hover {
+.bottom-cta a:hover {
     background: #136673;
 }
 

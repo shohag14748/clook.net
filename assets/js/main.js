@@ -1,17 +1,9 @@
-$('.owl-carousel').owlCarousel({
-    loop:true,
-    margin:0,
-    nav:true,
-    dots:true,
-    responsive:{
-        0:{
-            items:1
-        },
-        600:{
-            items:1
-        },
-        1000:{
-            items:1
-        }
-    }
-})
+$(document).ready(function(){
+   var scrollLink = $('.bottom-cta a');
+    scrollLink.on("click",function(e){
+        e.preventDefault();
+        $('body,html').animate({
+            scrollTop: $(this.hash).offset().top,
+        }, 700);
+    });
+});
