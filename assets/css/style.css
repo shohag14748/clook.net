@@ -139,7 +139,7 @@ h3 i {
     }
 
     25% {
-        transform: translateY(-30px);
+        transform: translateY(-20px);
     }
 
     40% {
@@ -147,7 +147,7 @@ h3 i {
     }
 
     60% {
-        transform: translateY(-10px);
+        transform: translateY(-5px);
     }
 
     80% {
@@ -473,10 +473,8 @@ h3 i {
     border-bottom: 1px solid #333 !important;
     font-size: 20px;
 }
-
 .home-domain-search form button {
     width: 30px !important;
-    float: left;
     height: 70px !important;
     background-color: #e5f4f2;
     border: 0;
@@ -633,6 +631,9 @@ h3 i {
 
     .extra-help p {
         font-size: 16px;
+    }
+    .home-products a {
+        min-width: 120px;
     }
 }
 
