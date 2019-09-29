@@ -92,16 +92,14 @@ h6 {
 }
 
 .home-banner h3 {
-    color: #fff;
     margin-bottom: 50px;
 }
 
-h3 i {
+.home-banner h3 i {
     font-size: 30px;
 }
 
 .home-banner h2 {
-    color: #fff;
     margin-bottom: 70px;
 }
 
@@ -118,9 +116,6 @@ h3 i {
 
 .home-banner .hero-content .details .content {
     padding: 15px;
-    background: #208fa0;
-    text-align: center;
-    color: #fff;
     margin-bottom: 30px;
     border-radius: 5px;
     transition: .5s;
@@ -220,7 +215,6 @@ h3 i {
     }
 }
 
-
 /* bottom cta */
 
 .bottom-cta {
@@ -270,26 +264,14 @@ h3 i {
 
 .home-reasons .single-content img {
     max-width: 200px;
-    display: block;
-    margin: auto;
     margin-bottom: 15px;
 }
 
 .home-reasons .single-content h6 {
-    text-align: center;
     margin-bottom: 50px;
 }
-
-.home-reasons .single-content p {
-    text-align: center;
-}
-
 .home-reasons .single-content p a {
     color: #1f8fa0;
-}
-
-.home-reasons .single-content p a:hover {
-    text-decoration: underline;
 }
 
 
@@ -298,7 +280,6 @@ h3 i {
 
 .home-reviews .bubble {
     max-width: 360px;
-    margin: auto;
     padding: 30px;
     border-radius: 20px;
     position: relative;
@@ -317,31 +298,24 @@ h3 i {
 
 .home-reviews .bubble p {
     color: #005f73;
-    text-align: center;
-    margin-bottom: 10px;
 }
 
 .home-reviews .bubble p em {
     font-size: 20px;
     font-weight: 700;
     display: block;
-    text-align: left;
     margin-bottom: 50px;
 }
 
 .home-reviews .stars img {
     max-width: 350px;
-    margin: auto;
-    display: block;
 }
 
 .home-reviews .stars h1 {
-    text-align: center;
     margin: 45px 0;
 }
 
 .home-reviews .stars p {
-    text-align: center;
     font-size: 25px;
     letter-spacing: 4px;
 }
@@ -379,14 +353,8 @@ h3 i {
 /* home products */
 
 
-.home-products {
-    text-align: center;
-}
-
 .home-products img {
     max-width: 100px;
-    display: block;
-    margin: auto;
     margin-bottom: 20px;
 }
 
@@ -432,12 +400,10 @@ h3 i {
 
 .home-domain-search h4 {
     font-weight: 700;
-    text-align: center;
     margin-bottom: 20px;
 }
 
 .home-domain-search h6 {
-    text-align: center;
     font-weight: 500;
     margin-bottom: 30px;
 }
@@ -493,11 +459,9 @@ h3 i {
 .home-trusted .title h4 {
     font-weight: 700;
     margin-bottom: 30px;
-    text-align: center
 }
 
 .home-trusted .title p {
-    text-align: center;
     font-size: 18px;
 }
 
@@ -508,9 +472,6 @@ h3 i {
     max-height: 150px;
 }
 
-.home-trusted .col-md-3 {
-    align-self: center;
-}
 
 
 
@@ -529,7 +490,6 @@ h3 i {
 
 .websites-hosted h2 {
     font-weight: 700;
-    margin: 0;
 }
 
 
@@ -568,7 +528,6 @@ h3 i {
 
 .news .latest-news-block .title {
     color: #fff;
-    text-align: center;
     padding: 15px 10px;
     margin-bottom: 20px;
 }
@@ -577,9 +536,6 @@ h3 i {
     color: #fff;
 }
 
-.news .latest-news-block .author strong {
-    font-style: italic;
-}
 
 
 
@@ -595,7 +551,6 @@ h3 i {
     font-size: 20px;
     font-weight: 700;
     color: #fff;
-    text-align: center;
 }
 
 .extra-help p a {
